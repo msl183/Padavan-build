@@ -102,4 +102,4 @@ jobs:
       if: always()
       with:
         name: Padavan-packages
-        path: /12e
+        path: /opt/images
